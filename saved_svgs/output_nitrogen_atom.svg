@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="-27.5716587342 -20.0 233.26458071320002 135.3244653024">
+	<line x1="99.7411692517" y1="39.802836211499994" x2="104.9699956431" y2="43.945381836699994" stroke="black" stroke-width="0.25" data-length="6.670930196626619" data-thickness="0.25"/>
+	<line x1="104.9699956431" y1="39.802836211499994" x2="99.7411692517" y2="43.945381836699994" stroke="black" stroke-width="0.25" data-length="6.670930196626619" data-thickness="0.25"/>
+	<line x1="161.9360710699" y1="28.324807120599985" x2="166.8742928881" y2="33.26302893879999" stroke="black" stroke-width="0.25" data-length="6.983700269305163" data-thickness="0.25"/>
+	<line x1="166.8742928881" y1="28.324807120599985" x2="161.9360710699" y2="33.26302893879999" stroke="black" stroke-width="0.25" data-length="6.983700269305163" data-thickness="0.25"/>
+	<line x1="126.1673292517" y1="65.6951343934" x2="130.5716892517" y2="70.0994943934" stroke="black" stroke-width="0.25" data-length="6.22870564557357" data-thickness="0.25"/>
+	<line x1="130.5716892517" y1="65.6951343934" x2="126.1673292517" y2="70.0994943934" stroke="black" stroke-width="0.25" data-length="6.22870564557357" data-thickness="0.25"/>
+	<line x1="177.6849947062" y1="28.324807120599985" x2="177.6849947062" y2="43.945381836699994" stroke="black" stroke-width="0.25" data-length="15.620574716100009" data-thickness="0.25"/>
+	<line x1="177.6849947062" y1="43.945381836699994" x2="177.6849947062" y2="36.135094478599996" stroke="black" stroke-width="0.25" data-length="7.810287358099998" data-thickness="0.25"/>
+	<line x1="177.6849947062" y1="36.135094478599996" x2="185.692921979" y2="36.135094478599996" stroke="black" stroke-width="0.25" data-length="8.007927272800003" data-thickness="0.25"/>
+	<line x1="185.692921979" y1="36.135094478599996" x2="185.692921979" y2="28.324807120599985" stroke="black" stroke-width="0.25" data-length="7.810287358000011" data-thickness="0.25"/>
+	<line x1="185.692921979" y1="28.324807120599985" x2="185.692921979" y2="43.945381836699994" stroke="black" stroke-width="0.25" data-length="15.620574716100009" data-thickness="0.25"/>
+	<line x1="128.3027765244" y1="80.6432653024" x2="128.3027765244" y2="95.3244653024" stroke="black" stroke-width="0.25" data-length="14.681199999999997" data-thickness="0.25"/>
+	<line x1="128.3027765244" y1="95.3244653024" x2="128.3027765244" y2="87.98386530239999" stroke="black" stroke-width="0.25" data-length="7.340600000000002" data-thickness="0.25"/>
+	<line x1="128.3027765244" y1="87.98386530239999" x2="133.3744637972" y2="87.98386530239999" stroke="black" stroke-width="0.25" data-length="5.0716872728000055" data-thickness="0.25"/>
+	<line x1="133.3744637972" y1="87.98386530239999" x2="133.3744637972" y2="80.6432653024" stroke="black" stroke-width="0.25" data-length="7.340599999999995" data-thickness="0.25"/>
+	<line x1="133.3744637972" y1="80.6432653024" x2="133.3744637972" y2="95.3244653024" stroke="black" stroke-width="0.25" data-length="14.681199999999997" data-thickness="0.25"/>
+	<line x1="76.2512492517" y1="28.324807120599985" x2="76.2512492517" y2="43.945381836699994" stroke="black" stroke-width="0.25" data-length="15.620574716100009" data-thickness="0.25"/>
+	<line x1="76.2512492517" y1="36.135094478599996" x2="83.4583837972" y2="36.135094478599996" stroke="black" stroke-width="0.25" data-length="7.207134545499997" data-thickness="0.25"/>
+	<line x1="83.4583837972" y1="36.135094478599996" x2="83.4583837972" y2="28.324807120599985" stroke="black" stroke-width="0.25" data-length="7.810287358000011" data-thickness="0.25"/>
+	<line x1="83.4583837972" y1="28.324807120599985" x2="83.4583837972" y2="43.945381836699994" stroke="black" stroke-width="0.25" data-length="15.620574716100009" data-thickness="0.25"/>
+	<line x1="122.6972274335" y1="23.253119847899995" x2="122.6972274335" y2="47.00997075699999" stroke="black" stroke-width="0.25" data-length="23.756850909099995" data-thickness="0.25"/>
+	<line x1="122.6972274335" y1="23.253119847899995" x2="138.9800128881" y2="47.00997075699999" stroke="black" stroke-width="0.25" data-length="28.80133794249389" data-thickness="0.25"/>
+	<line x1="138.9800128881" y1="47.00997075699999" x2="138.9800128881" y2="23.253119847899995" stroke="black" stroke-width="0.25" data-length="23.756850909099995" data-thickness="0.25"/>
+	<line x1="-7.0528884161" y1="58.79926203869999" x2="-7.5716587342" y2="57.103471557999995" stroke="black" stroke-width="0.5" data-length="1.7733662896802522" data-thickness="0.5"/>
+	<g id="radius_36.62307637178696">
+		<circle cx="133.3744637972" cy="36.06580348429999" r="36.62307637178696" stroke="black" stroke-width="0.7" fill="none" data-radius="36.62307637178696" data-thickness="0.7"/>
+	</g>
+	<g id="radius_20.59523760940557">
+		<circle cx="178.2188565244" cy="36.06580348429999" r="20.59523760940557" stroke="black" stroke-width="0.35" fill="none" data-radius="20.59523760940557" data-thickness="0.35"/>
+	</g>
+	<g id="radius_20.9">
+		<circle cx="133.3744637972" cy="82.77871257519999" r="20.9" stroke="black" stroke-width="0.35" fill="none" data-radius="20.9" data-thickness="0.35"/>
+		<circle cx="87.4623474335" cy="36.06580348429999" r="20.9" stroke="black" stroke-width="0.35" fill="none" data-radius="20.9" data-thickness="0.35"/>
+	</g>
+	<g id="radius_2.704417708994678">
+		<circle cx="124.867850377" cy="0.4443597872999874" r="2.704417708994678" stroke="black" stroke-width="0.25" fill="none" data-radius="2.704417708994678" data-thickness="0.25"/>
+	</g>
+	<g id="radius_2.747272188604843">
+		<circle cx="139.7390173532" cy="0.0" r="2.747272188604843" stroke="black" stroke-width="0.25" fill="none" data-radius="2.747272188604843" data-thickness="0.25"/>
+	</g>
+	<g id="radius_2.669309090909101">
+		<circle cx="101.3427547062" cy="31.261047120599997" r="2.669309090909101" stroke="black" stroke-width="0.25" fill="none" data-radius="2.669309090909101" data-thickness="0.25"/>
+	</g>
+	<g id="radius_2.628964566540503">
+		<circle cx="163.8045874335" cy="40.33669802969999" r="2.628964566540503" stroke="black" stroke-width="0.25" fill="none" data-radius="2.628964566540503" data-thickness="0.25"/>
+	</g>
+	<g id="radius_2.869095323519358">
+		<circle cx="139.738909286" cy="67.8307180712" r="2.869095323519358" stroke="black" stroke-width="0.25" fill="none" data-radius="2.869095323519358" data-thickness="0.25"/>
+	</g>
+</svg>
